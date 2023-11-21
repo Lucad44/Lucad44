@@ -2,6 +2,7 @@
 
 Hey, I'm Lucad.
 
+---
 
 Languages I'm the most comfortable with:
 
@@ -10,15 +11,17 @@ Languages I'm the most comfortable with:
   •  C/C++  
 
   •  Java 
->
+---
 
 Contacts:
 
   •       Telegram: [@lucaddd](https://t.me/lucaddd)
 
+  •       Mail: [Email](dintronoluca758@gmail.com)
+
   • 󰙯      Discord: [@Lucad](https://discord.com/users/634015525625921557)
 
->
+---
 
 I don't know why you would ever do that tbf, but here are the links to support me:
 
