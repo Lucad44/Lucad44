@@ -11,9 +11,9 @@ Languages I'm the most comfortable with:
 
 Contacts:
 
-•  Telegram: https://t.me/lucaddd
+•   Telegram: https://t.me/lucaddd
 
-• 󰙯 Discord: 
+• 󰙯  Discord: https://discord.com/users/634015525625921557
 
 
 
