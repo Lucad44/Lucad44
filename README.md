@@ -6,12 +6,14 @@ Hey, I'm Lucad.
 
 Languages I'm the most comfortable with:
 
-  •  Python 3  
+  •  **Python 3  **
 
-  •  C/C++  
+  • **C/C++  **
 
-  •  Java 
+  • **Java **
+
 ---
+
 
 Contacts:
 
