@@ -3,11 +3,19 @@
 
 Languages I'm the most comfortable with:
 
-• Python 3  
+•  Python 3  
 
-• C/C++  
+•  C/C++  
 
-• Java 
+•  Java 
+
+Contacts:
+
+•  Telegram: https://t.me/lucaddd
+
+• 󰙯 Discord: 
+
+
 
 I don't know why you would ever do that tbf, but here are the links to support me:
 
