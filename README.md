@@ -9,6 +9,5 @@ Languages I'm the most comfortable with:
 
 • Java 
 
-
 I don't know why you would ever do that tbf, but here are the links to support me:
 • buymeacoffee: https://www.buymeacoffee.com/lucad4
