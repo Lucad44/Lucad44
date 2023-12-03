@@ -10,8 +10,6 @@ Languages I'm the most comfortable with:
 
   • C/C++  
 
-  • Java 
-
 ---
 
 
