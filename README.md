@@ -22,7 +22,7 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucad44&show_icons=true&theme=dark" height="180em"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucad44&exclude_repo=.dotfiles&layout=compact&theme=dark&card_width=320" height="180em"/>
 </div>
 
@@ -30,5 +30,6 @@
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lucad4)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://paypal.me/lucadd4)
+
 
 
